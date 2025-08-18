@@ -249,7 +249,21 @@ BarChart(
 
 ## 📱 Screenshots & Demo
 
-
+<img width="1320" height="2868" alt="Image" src="https://github.com/user-attachments/assets/72982c10-eebd-4239-ba11-0637ae698da7" />
+<img width="1320" height="2868" alt="Image" src="https://github.com/user-attachments/assets/196d17d1-2011-4e4f-8b22-99bab4886659" />
+<img width="1320" height="2868" alt="Image" src="https://github.com/user-attachments/assets/d8ddf165-b556-46f1-8c92-0b9fa585805f" />
+<img width="1320" height="2868" alt="Image" src="https://github.com/user-attachments/assets/82060641-7c47-4742-800b-4f41c91f8bb0" />
+<img width="1320" height="2868" alt="Image" src="https://github.com/user-attachments/assets/549c4b7b-0df8-467b-8303-2beb8aec5d8a" />
+<img width="1320" height="2868" alt="Image" src="https://github.com/user-attachments/assets/8a010d72-19f9-48c8-899a-b120f77f332f" />
+<img width="1320" height="2868" alt="Image" src="https://github.com/user-attachments/assets/60ae72e4-1266-4152-907c-3a944405b961" />
+<img width="1320" height="2868" alt="Image" src="https://github.com/user-attachments/assets/d0e2a2e6-d17e-4f77-af89-627ac98eb9c7" />
+<img width="1320" height="2868" alt="Image" src="https://github.com/user-attachments/assets/7dbbcc0b-9dd5-41d8-ba14-db955ac76ef7" />
+<img width="1320" height="2868" alt="Image" src="https://github.com/user-attachments/assets/7768a12f-d6ef-40d5-a0b1-eb45b4b3d9fb" />
+<img width="1320" height="2868" alt="Image" src="https://github.com/user-attachments/assets/a1bda6ed-7d78-459a-a486-c827a568931c" />
+<img width="1320" height="2868" alt="Image" src="https://github.com/user-attachments/assets/fe400eb5-c0ca-4c13-b86b-a972983e20e5" />
+<img width="1320" height="2868" alt="Image" src="https://github.com/user-attachments/assets/753299e1-8599-41ce-b669-cdf3d0315eb6" />
+<img width="1320" height="2868" alt="Image" src="https://github.com/user-attachments/assets/5a784ece-6751-435b-99d3-0e8dce98a97f" />
+<img width="1320" height="2868" alt="Image" src="https://github.com/user-attachments/assets/90f29b5b-5c3d-439d-849b-17623aa7672a" />
 
 ---
 
